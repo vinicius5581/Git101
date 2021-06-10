@@ -56,3 +56,7 @@ You can add all the files:
 example:
 `git remote add origin https://github.com/vinicius5581/Git101.git`
 
+### 3) Pushing commits from local to github
+
+`git push origin master`
+
