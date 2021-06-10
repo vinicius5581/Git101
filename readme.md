@@ -35,6 +35,11 @@ You can add multipe files:
 You can add all the files:
 `git add .`
 
-### 2) Commit your changes
+### 3) Commit your changes
 
 `git commit -m "message"`
+
+
+### 4) View log
+
+`git log`
