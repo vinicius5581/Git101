@@ -43,3 +43,16 @@ You can add all the files:
 ### 4) View log
 
 `git log`
+
+
+## Creating repository on github and sync with local
+
+### 1) Create repository on github
+
+### 2) Setup local repository origin
+
+`git remote add origin project-github-url`
+
+example:
+`git remote add origin https://github.com/vinicius5581/Git101.git`
+
